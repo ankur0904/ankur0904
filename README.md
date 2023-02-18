@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur0904" alt="ankur0904" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ankursingh91002" target="blank"><img src="https://img.shields.io/twitter/follow/ankursingh91002?logo=twitter&style=for-the-badge" alt="ankursingh91002" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Development.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👯 I’m looking to collaborate on **any new project.**
 
