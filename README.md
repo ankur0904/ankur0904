@@ -10,7 +10,6 @@
 
 - 👯 I’m looking to collaborate on **new project.**
 
-- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **ankursingh91002@gmail.com**
 
