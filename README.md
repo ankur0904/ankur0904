@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ankursingh91002@gmail.com**
 
-- 📄 Know about my experiences [This is my Resume]( https://drive.google.com/file/d/1fEST6I6OjVIH_2oDqihwO4JZyrFNp6gm/view?usp=drivesdk](https://drive.google.com/file/d/1c-2OPTCrgNW42fF6jIFDcRLL6X2JYt_1/view?usp=share_link )
+- 📄 Know about my experiences [This is my Resume]( https://drive.google.com/file/d/1u-XeTUp9V9Li8mVgeR8n186TX8zxVo-Y/view?usp=sharing )
 
 - ⚡ Fun fact **I think I know future.**
 
