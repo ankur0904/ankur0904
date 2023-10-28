@@ -8,14 +8,9 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👯 I’m looking to collaborate on **new project.**
-
-
 - 📫 How to reach me **ankursingh91002@gmail.com**
 
 - 📄 Know about my experiences [This is my Resume]( https://drive.google.com/file/d/1u-XeTUp9V9Li8mVgeR8n186TX8zxVo-Y/view?usp=sharing )
-
-- ⚡ Fun fact **I think I know future.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
