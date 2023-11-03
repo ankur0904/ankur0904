@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankur0904" alt="ankur0904" /></a> </p>
 
-
-- 🌱 I’m currently learning **Machine Learning.**
-
 - 📫 How to reach me **ankursingh91002@gmail.com**
 
 - 📄 Know about my experiences [This is my Resume]( https://drive.google.com/file/d/1u-XeTUp9V9Li8mVgeR8n186TX8zxVo-Y/view?usp=sharing )
