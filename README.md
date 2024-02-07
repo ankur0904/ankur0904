@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Singh</h1>
 <h3 align="center">A passionate developer</h3>
-<h2>This is my <a href="https://docs.google.com/document/d/1QVxOshZAccxZasWMy6TEKVy4OpXdqn6FbqNHwiZwCRc/edit?usp=sharing">Resume</a></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur0904&label=Profile%20views&color=0e75b6&style=flat" alt="ankur0904" /> </p>
 
